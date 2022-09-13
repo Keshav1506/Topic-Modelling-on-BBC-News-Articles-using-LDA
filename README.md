@@ -75,11 +75,11 @@ Here I've used the LDA (Latent Dirichlet Allocation) algorithm for modelling the
 
 These are the optimal LDA metrics that I got after implementing GridSearchCV:
 
-    Best LDA model's params **{'n_components': 5}**
+    Best LDA model's params: {'n_components': 5}
 
-    Best log likelihood Score for the LDA model **-643494.9704171557**
+    Best log likelihood Score for the LDA model: -643494.9704171557
 
-    LDA model Perplexity on train data **1696.6352006244963**
+    LDA model Perplexity on train data: 1696.6352006244963
 
 
 ## **Notable Findings**
